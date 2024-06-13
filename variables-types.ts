@@ -1,0 +1,21 @@
+let bookTitle : string = 'TypeScript Basics';
+const libraryName : string = 'My library';
+let numberOfBooks : number = 10;
+let isLibraryOpen : boolean = true;
+
+let titulo : string = 'El Quijote'
+let autor : string = 'Miguel de Cervantes';
+let genero : string = 'Ficción';
+let idioma : string = 'Español';
+let precio : number = 40;
+let formato : string = 'Tapa dura';
+let isbn : number = 12345678;
+let descripcion : string = 'Una novela clásica de la literatura española.';
+let estado : string = 'Nuevo';
+let ubicacion : string = 'Madrid, España'
+let fecha_publicacion : number = 2/10/1996;
+let editorial : string = 'Editorial 1';
+let paginas : number = 400;
+let dimensiones : string = '15x5x20 cm';
+let peso : string = '1.2 kg';
+let disponible : boolean = true
